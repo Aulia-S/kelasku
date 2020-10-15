@@ -4,7 +4,7 @@ import "../css/Header.css";
 class Header extends React.Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light bg-lightgf py-0">
+      <nav className="navbar navbar-expand-lg navbar-light bg-header py-0">
         <a className="navbar-brand" href='#root' >kelasku</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

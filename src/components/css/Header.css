@@ -1,8 +1,18 @@
+.bg-header{
+    background-color: #e4ecf0;
+}
+
 .nav-link{
     font-size: 1.8rem;
+    color: inherit !important;
 }
 
 .navbar-brand{
     font-family: 'Viga', sans-serif;
     font-size: 1.6rem !important;
+    color: inherit !important;
+}
+
+.user-circle{
+    color: inherit;
 }
