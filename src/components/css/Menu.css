@@ -3,7 +3,7 @@
 	color: inherit !important;
 }
 
-.menu-item:hover::after {
+.menu-item:hover::after{
 	content: '';
 	display: block;
 	border-top: 3px solid #333333;
@@ -16,3 +16,13 @@
 	outline: none !important;
 	box-shadow: none !important;
 }
+
+.menu-item:focus::after{
+	content: '';
+	display: block;
+	border-top: 3px solid #333333;
+	width: 50%;
+	margin: auto;
+	margin-bottom: -3px;
+}
+

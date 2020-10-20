@@ -1,0 +1,26 @@
+.card-item-task{
+  width: 100%;
+  height: 120px;
+}
+
+.task-bg{
+  background-image: url('../../img/bg-task.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 120px;
+  border-top-left-radius: .25rem;
+  border-bottom-left-radius: .25rem;
+}
+
+.task-task-name{
+  font-size: 1.4rem;
+  font-weight: 300;
+}
+
+.task-class-name{
+  font-size: 0.9rem;
+}
+
+.task-deadline{
+  font-size: .8rem;
+}

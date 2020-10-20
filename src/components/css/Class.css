@@ -35,7 +35,8 @@ img{
 
 .info-task{
   height: 65%;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
+  font-weight: 300;
 }
 
 table{

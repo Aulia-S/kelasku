@@ -1,0 +1,16 @@
+.card-board{
+  width: 250px;
+  height: 350px;
+}
+
+.board-table{
+  font-size: 0.75rem;
+}
+
+.board-table th, .board-table td{ 
+  padding: 3px 12px !important;
+}
+
+.board-title{
+  font-weight: 500;
+}
